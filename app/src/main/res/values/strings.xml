@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="library">Library</string>
+    <string name="music_store">Music Store</string>
+    <string name="artist">Artista</string>
+    <string name="album">Álbum</string>
+    <string name="genre">Gênero</string>
+    <string name="all_music">Todas as Músicas</string>
+    <string name="activity_library_text">Essa tela deverá exibir botões para navegar na biblioteca de músicas do usuário. A navegação poderá ser feita por Artista, Álbum, Gênero ou Todas as Músicas</string>
+    <string name="activity_library_album_text">Essa tela deverá exibir os álbuns presente na biblioteca do usuário. Ao clicar no nome de um álbum serão exibidas apenas as músicas desse álbum</string>
+    <string name="activity_library_all_text">Essa tela deverá exibir todas as músicas presente na biblioteca do usuário. Ao clicar em uma música a mesma será reproduzida e o usuário direcionado para a tela Now Playing</string>
+    <string name="activity_library_artist_text">Essa tela deverá exibir os artistas presente na biblioteca do usuário. Ao clicar no nome de um artista serão exibidas apenas as músicas desse artista.</string>
+    <string name="activity_library_genre_text">Essa tela deverá exibir os gêneros musicais presente na biblioteca do usuário. Ao clicar em um gênero, serão exibidas apenas as músicas desse gênero.</string>
+    <string name="activity_main_text">Essa tela será a tela inicial do aplicativo, exibindo os botões para a música sendo reproduzida, biblioteca e loja de músicas.</string>
+    <string name="activity_music_store_text">Essa tela deverá exibir músicas que poderão ser compradas pelo usuário</string>
+    <string name="activity_now_playing_text">Essa tela deverá exibir a música que está sendo executada, em destaque, e uma lista das músicas que serão reproduzidas em seguida.</string>
+    <string name="artists">Artistas</string>
+    <string name="albums">Álbuns</string>
+    <string name="genres">Gêneros</string>
+</resources>
